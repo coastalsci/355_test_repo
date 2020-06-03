@@ -14,5 +14,3 @@ Gardening :beet: :rabbit: :lettuce:
 Intertidal :seashore: :crab: :seaweed:
 
 How about :clam: :mussel: :starfish: :urchin: :lobster:
-
-ch-ch-ch-ch-changes

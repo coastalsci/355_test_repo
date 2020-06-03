@@ -8,5 +8,3 @@ output: html_document
 ## This is the ReadMe.md file for the scripts folder.
 
 This folder contains R scripts for this lesson.
-
-ch-ch-ch-ch-changes
