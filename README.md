@@ -6,3 +6,9 @@ This is a test repo for a class.
 My first repository (not!) on GitHub
 
 I love COFFEE :coffee: gardening :carrot: and the intertidal zone :snail:.
+
+Adding to my gardening and intertidal icons
+
+Gardening :beet: :rabbit: :lettuce:
+
+Intertidal :seashore: :crab: :seaweed:
